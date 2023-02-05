@@ -1,1 +1,1 @@
-["seu_@doinsta", ex:["eo_mectreff"]
+["eo_mectreff"]
